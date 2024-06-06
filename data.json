@@ -1,0 +1,56 @@
+{
+    "user" : {
+        "fullName": "Tshimologo Simon Tone",
+        "photo" : "./FullName.jpg"
+    },
+    "city" : {
+        "name" : "Cape Town",
+        "photo" : "./CPT.png",
+        "description" : "I believe everyone born outside of the Western Cape, travelling to Cape Town is their desire simply because of what we were able to hear about the city. I genuinely want to experience the beach, the weather, the beautiful things that the city has to offer and ultimately experience the climate of the city."
+    },
+    "foreignLanguage" : {
+        "language" : "Spanish",
+        "phrases" : [{
+            "englishPhrase" : "How are you?",
+            "foreignLanguage" : "¿Cómo estás?"
+        },
+        {
+            "englishPhrase" : "I love Spanish",
+            "foreignLanguage" : "Me encanta el español"
+        }]
+    },
+    "historical places" : [
+        {
+            "name" : "wyneberg",
+            "photo" : "./Wyneberg.png",
+            "fact" : "One fact about this place is that it is the first place I lived in my own apartment, after getting a job in 2022 it became pivotal to find a place close to work and so where I found an apartment was simply 3 minutes away from my previous place of employment."
+        },
+        {
+            "name" : "Brakpan",
+            "photo" : "./Brakpan.png",
+            "fact" : "Brakpan is simply home away from home, it is a Place place where I was birthed from and it is a place that I continually visit for rejuvination and for strengthening. I also go there for entertainment at Carnival City."
+        },
+        {
+            "name" : "Welgedatcht",
+            "photo" : "./Welgedacht.png",
+            "fact" : "During my undergraduate days I fell in love with a damsel and she was from the land of Mpumalanga in Bushbuckridge. So during our love, one day I was inspired to visit her at her home province and that was a whole beautiful experience, no lie the land is preetty hot and a bit dry but things are affordable and one can get a lot done through the day."
+        }
+    ],
+    "favouriteSubjects" : [
+        {
+            "name" : "4IR Technologies Bootcamp",
+            "description" : "4IR Technologies Bootcamp  is my favourite subject due to its practical relevance, skill-building opportunities, career prospects, networking benefits, and personal interest in emerging technologies.",
+            "photo" : "./4IR.png"
+        },
+        {
+            "name" : "Full Stack Web Development For 4IR",
+            "description" : "Full Stack Web Development for 4IR is my favourite subject because it offers a pathway to acquiring valuable skills, aligns with industry demands, provides ample job opportunities, offers practical experience, enables entrepreneurial pursuits, and fosters a culture of continuous learning and growth.",
+            "photo" : "./Fullstack.png"
+        },
+        {
+            "name" : "Agile Rapid Skills Acquisition",
+            "description" : "Agile Rapid Skills Acquisition is my favourite subject because it offers a practical and efficient approach to learning, promotes adaptability and collaboration, fosters a culture of continuous improvement, and aligns with industry demands for Agile professionals.",
+            "photo" : "./Agile.png"
+        }
+    ]
+  }

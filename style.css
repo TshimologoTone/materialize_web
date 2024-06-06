@@ -1,0 +1,144 @@
+body {
+    background-color: rgba(11, 137, 240, 0.192);
+}
+
+.Web {
+    text-align: center;
+}
+
+.Full-Name {
+    background-image: url(tablemountain.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+
+.Beauty {
+    background-color: cornflowerblue;
+}
+
+.Link {
+    /* box_model */
+    border: 1px solid rgba(253, 33, 4, 0.667);
+    padding: 1cm;
+    margin: 1cm;
+    /* margin-left: 0cm; */
+    margin-bottom: 0.5cm;
+    border-radius: 1cm;
+}
+
+@media (min-width: 960px) {
+    .Conytainer {
+        display: flex;
+    }
+}
+
+.phone {
+    background-color: bisque;
+    flex: 2;
+}
+
+.tone {
+    background-color: chartreuse;
+    flex: 2;
+}
+
+.Place {
+    /* box_model */
+    border: 1px solid rgba(253, 33, 4, 0.667);
+    padding: 1cm;
+    margin: 1cm;
+    /* margin-left: 0cm; */
+    margin-bottom: 0.5cm;
+    border-radius: 1cm;
+    flex-wrap: wrap;
+}
+
+@media (min-width: 960px) {
+    .Container {
+        display: flex;
+    }
+}
+
+.col-3 {
+    background-color: aqua;
+    flex: 2;
+}
+.p1 {
+    background-color: rgb(194, 10, 250);
+    flex: 2;
+}
+
+.p2 {
+    background-color: chartreuse;
+    flex: 2;
+}
+
+.p3 {
+    background-color: gold;
+    flex: 2;
+}
+
+.Full-Name {
+    background-color: blueviolet;
+    border: 1px solid rgba(253, 33, 4, 0.667);
+    padding: 1cm;
+    margin: 1cm;
+    /* margin-left: 0cm; */
+    margin-bottom: 0.5cm;
+    border-radius: 1cm;
+}
+
+.Which {
+    background-color: rgb(231, 9, 120);
+    border: 1px solid rgba(253, 33, 4, 0.667);
+    padding: 1cm;
+    margin: 1cm;
+    /* margin-left: 0cm; */
+    margin-bottom: 0.5cm;
+    border-radius: 1cm;
+    text-align: center;
+}
+
+.Foreign {
+    background-color: forestgreen;
+    border: 1px solid rgba(253, 33, 4, 0.667);
+    padding: 1cm;
+    margin: 1cm;
+    /* margin-left: 0cm; */
+    margin-bottom: 0.5cm;
+    border-radius: 1cm;
+    text-align: center;
+}
+
+@media (min-width: 960px) {
+    .Favorites {
+        display: flex;
+    }
+}
+
+.Sub {
+    /* box_model */
+    border: 1px solid rgba(253, 33, 4, 0.667);
+    padding: 1cm;
+    margin: 1cm;
+    /* margin-left: 0cm; */
+    margin-bottom: 0.5cm;
+    border-radius: 1cm;
+}
+
+.four {
+    background-color: cadetblue;
+    flex: 2;
+}
+
+.full {
+    background-color: darkgrey;
+    flex: 2;
+}
+
+.agile {
+    background-color: darkkhaki;
+    flex: 2;
+}
